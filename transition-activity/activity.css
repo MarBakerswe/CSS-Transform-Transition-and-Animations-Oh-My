@@ -13,13 +13,8 @@ button {
   
 button:hover {
     background-color: cornflowerblue;
-    color: ;
+    color: white;
   }
-
-#container {
-
-  
-}
 
 
 body  {
@@ -30,6 +25,7 @@ body  {
 .caption {
   position: relative;
   overflow: hidden;
+  text-align: justify;
 }
 
 .caption__media {
@@ -86,7 +82,6 @@ body  {
   …
   transform: translateZ(0);
 }
-
 
 
 img {
